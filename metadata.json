@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Komodo.ai",
+  "description": "A web application that uses the Gemini API to generate high-quality images from text prompts. Powered by the Imagen model.",
+  "requestFramePermissions": []
+}
